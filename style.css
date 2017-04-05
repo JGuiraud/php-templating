@@ -1,0 +1,55 @@
+.middle {
+    background-color: grey;
+    /*height: 100px;*/
+}
+
+#title {
+    text-align: center;
+}
+
+#slogan {
+    text-align: center;
+}
+
+#about {
+    padding-top: 30px;
+}
+
+.card {
+    padding-top: 1em;
+    border: 1px black solid;
+    text-align: center;
+}
+
+.card-block {
+    padding-bottom: 1em;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px;
+    height: 4em;
+    margin-bottom: 10px;
+    /*text-align: center;*/
+}
+
+.right {
+    padding-top:  1.5em;
+    text-align: center;
+    /*width: auto;*/
+}
+
+#imgcard {
+    width : 100%;
+    height: auto;
+}
+
+#roundimg {
+    width: 70%;
+    height: 12.3vw;
+
+    /*padding-top: 0px;*/
+    border-radius: 150px;
+}
